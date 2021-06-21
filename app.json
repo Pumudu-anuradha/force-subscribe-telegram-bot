@@ -1,6 +1,6 @@
 {
-  "name": "TG-ForceSub Malayalam",
-  "description": "Telegram's Saassiest Malayalam Version Force Subscriber Bot",
+  "name": "force-subscribe-telegram-bot",
+  "description": "Telegram's Saassiest Version Force Subscriber Bot",
   "keywords": [
     "telegram",
     "best",
@@ -8,9 +8,9 @@
     "Force Subscribe",
     "Promoter"
   ],
-  "website": "https://github.com/shamilhabeebnelli",
-  "repository": "https://github.com/shamilhabeebnelli/FSUB-Malayalam",
-  "logo": "https://telegra.ph/file/9be7ca252a701affd2629.jpg",
+  "website": "https://github.com/Pumudu-anuradha/force-subscribe-telegram-bot",
+  "repository": "https://github.com/Pumudu-anuradha/force-subscribe-telegram-bot",
+  "logo": "https://telegra.ph/file/41adb89c9f9ef6c199612.jpg",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, Get it from @Botfather.",
